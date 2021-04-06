@@ -17,8 +17,8 @@
   "libraries": {
     "Core/1.0.0": {
       "type": "project",
-      "path": "../../Core/Core.csproj",
-      "msbuildProject": "../../Core/Core.csproj"
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Potamia\\source\\repos\\Calculator\\Repl\\Repl\\Repl.csproj",
+      "projectUniqueName": "C:\\Users\\Potamia\\source\\repos\\Calculator\\Repl\\Repl.csproj",
       "projectName": "Repl",
-      "projectPath": "C:\\Users\\Potamia\\source\\repos\\Calculator\\Repl\\Repl\\Repl.csproj",
+      "projectPath": "C:\\Users\\Potamia\\source\\repos\\Calculator\\Repl\\Repl.csproj",
       "packagesPath": "C:\\Users\\Potamia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Potamia\\source\\repos\\Calculator\\Repl\\Repl\\obj\\",
+      "outputPath": "C:\\Users\\Potamia\\source\\repos\\Calculator\\Repl\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Potamia\\AppData\\Roaming\\NuGet\\NuGet.Config",
