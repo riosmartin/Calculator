@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Potamia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Potamia\\.nuget\\packages"
+    ]
+  }
+}

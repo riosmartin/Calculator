@@ -1,0 +1,8 @@
+C:\Users\Potamia\source\repos\Calculator\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Potamia\source\repos\Calculator\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Potamia\source\repos\Calculator\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Potamia\source\repos\Calculator\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Potamia\source\repos\Calculator\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Potamia\source\repos\Calculator\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Potamia\source\repos\Calculator\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Potamia\source\repos\Calculator\Core\obj\Debug\netcoreapp3.1\Core.pdb
